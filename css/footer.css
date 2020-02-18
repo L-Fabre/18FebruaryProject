@@ -1,0 +1,13 @@
+footer > div{
+    display: flex;
+    width: 100vw;
+    height: 7vh;
+    background-color: grey;
+    justify-content: center;
+}
+
+#heart{
+    margin-top: 1em;
+    width: 2em;
+    height: auto;
+}

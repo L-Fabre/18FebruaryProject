@@ -9,7 +9,7 @@
     <link rel="stylesheet" href="css/footer.css">
     <link rel="stylesheet" href="css/connexion.css">
 
-    <title>Document</title>
+    <title> Alpago | Connexion </title>
 </head>
 
 <body>
@@ -28,12 +28,12 @@
     <input type="password" name="password">
     
 
-    <input type="submit" value="Connexion" >
+    <input type="submit" value="Connexion">
     </form>
     </div>
     </main>
 
 
-
+    <?php include_once 'templates/footer.php' ?>
 </body>
 </html>

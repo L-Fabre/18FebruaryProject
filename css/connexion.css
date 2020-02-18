@@ -3,11 +3,13 @@
     display: flex;
     width: 40em;
     height: 10em;
-    margin-left: 20em;
+    margin-left: 25%;
     margin-top: 15em;
     border: thick double brown;
     align-items: center;
     justify-content: center;
+    text-align: center;
+    margin-bottom: 26em;
 }
 
 label{
@@ -15,5 +17,7 @@ label{
     padding-right: 1em;
 }
 
-
-
+.describ{
+    width: 14em;
+    height: 7em;
+}

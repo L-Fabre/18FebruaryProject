@@ -9,7 +9,7 @@
     <link rel="stylesheet" href="css/footer.css">
     <link rel="stylesheet" href="css/index.css">
 
-    <title>Document</title>
+    <title> Alpago | Accueil </title>
 </head>
 <body>
     <?php include_once 'templates/header.php' ?>
@@ -21,6 +21,6 @@
     </div>
 
 
-
+    <?php include_once 'templates/footer.php' ?>
 </body>
 </html>

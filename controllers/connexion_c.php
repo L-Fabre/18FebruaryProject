@@ -6,4 +6,4 @@ session_start();
 $_SESSION['username'] = $_POST['username'];
 $_SESSION['password'] = $_POST['password'];
 
-header('Location: info.php');
+header('Location: http://192.168.33.18/info.php');
