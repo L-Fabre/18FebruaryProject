@@ -13,18 +13,9 @@
                 
                 <li><a href="profil.php">Profil</a></li>
                 <li><a href="controllers/deconnexion_c.php">Deconnexion</a></li>
-                
-                
                 <?php else: ?>
-                
-                
-                
-                
-                
                 <li><a href="connexion.php">Connexion</a></li>             
                 <?php endif ?>
-                
-                
             </ul>
         </div>
     </nav>

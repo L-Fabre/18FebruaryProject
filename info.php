@@ -28,11 +28,6 @@
         </div>
     <?php endif ?>
 
-        
-    
-        
-        
-        
         <div >
         </div>
         <div id="bigBloc">
